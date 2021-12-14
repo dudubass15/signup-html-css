@@ -1,0 +1,25 @@
+:root {
+    --bg-blue: #638bf8;
+    --bg-blue-lilas: #849fe98c;
+    --bg-background: #F7F8F9;
+    --bg-dark: #000000;
+    --bg-white: #FFFFFF;
+    --bg-marron: #454D5E;
+    --bg-marron-white: #A1A8B4;
+
+    --color-blue: #1F4CC5;
+    --color-background: #F7F8F9;
+    --color-dark: #000000;
+    --color-white: #FFFFFF;
+    --color-marron: #454D5E;
+    --color-marron-white: #A1A8B4;
+
+    --ft-fira-sans: 'Fira Sans', sans-serif;
+
+    --ft-fira-sans-weight-100: 100;
+    --ft-fira-sans-weight-200: 200;
+    --ft-fira-sans-weight-300: 300;
+    --ft-fira-sans-weight-400: 400;
+    --ft-fira-sans-weight-500: 500;
+    --ft-fira-sans-weight-800: 800;
+}
